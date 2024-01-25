@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T14:25:18 IST" name="Default suite" finished-at="2024-01-25T14:27:03 IST" duration-ms="104894">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T14:25:18 IST" name="Default test" finished-at="2024-01-25T14:27:03 IST" duration-ms="104894">
+      <class name="org.collegesuggest.HomePage_Footer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:18 IST" name="setUp" finished-at="2024-01-25T14:25:21 IST" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cs_Verify_EngineeringSection_In_Footer_Is_Present_0001()[pri:1, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:21 IST" name="cs_Verify_EngineeringSection_In_Footer_Is_Present_0001" finished-at="2024-01-25T14:25:26 IST" duration-ms="4125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_EngineeringSection_In_Footer_Is_Present_0001 -->
+        <test-method signature="cs_Verify_ArchitectureSection_In_Footer_Is_Present_0002()[pri:2, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:26 IST" name="cs_Verify_ArchitectureSection_In_Footer_Is_Present_0002" finished-at="2024-01-25T14:25:28 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_ArchitectureSection_In_Footer_Is_Present_0002 -->
+        <test-method signature="cs_Verify_MedicalSection_In_Footer_Is_Present_0003()[pri:3, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:28 IST" name="cs_Verify_MedicalSection_In_Footer_Is_Present_0003" finished-at="2024-01-25T14:25:30 IST" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_MedicalSection_In_Footer_Is_Present_0003 -->
+        <test-method signature="cs_Verify_DentalSection_In_Footer_Is_Present_0004()[pri:4, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:30 IST" name="cs_Verify_DentalSection_In_Footer_Is_Present_0004" finished-at="2024-01-25T14:25:32 IST" duration-ms="2064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_DentalSection_In_Footer_Is_Present_0004 -->
+        <test-method signature="cs_Verify_PharmacySection_In_Footer_Is_Present_0005()[pri:5, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:32 IST" name="cs_Verify_PharmacySection_In_Footer_Is_Present_0005" finished-at="2024-01-25T14:25:34 IST" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_PharmacySection_In_Footer_Is_Present_0005 -->
+        <test-method signature="cs_Verify_OtherLinksSection_In_Footer_Is_Present_0007()[pri:7, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:34 IST" name="cs_Verify_OtherLinksSection_In_Footer_Is_Present_0007" finished-at="2024-01-25T14:25:36 IST" duration-ms="2064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_OtherLinksSection_In_Footer_Is_Present_0007 -->
+        <test-method signature="cs_Verify_FollowUsSection_In_Footer_Is_Present_0008()[pri:8, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:36 IST" name="cs_Verify_FollowUsSection_In_Footer_Is_Present_0008" finished-at="2024-01-25T14:25:38 IST" duration-ms="2061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_FollowUsSection_In_Footer_Is_Present_0008 -->
+        <test-method signature="cs_Verify_EngineeringCollegeLink_In_Footer_Is_Clickable_0009()[pri:9, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:38 IST" name="cs_Verify_EngineeringCollegeLink_In_Footer_Is_Clickable_0009" finished-at="2024-01-25T14:25:55 IST" duration-ms="16970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_EngineeringCollegeLink_In_Footer_Is_Clickable_0009 -->
+        <test-method signature="cs_Verify_ArchitectureCollegeLink_In_Footer_Is_Clickable_0010()[pri:10, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:25:55 IST" name="cs_Verify_ArchitectureCollegeLink_In_Footer_Is_Clickable_0010" finished-at="2024-01-25T14:26:12 IST" duration-ms="16862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_ArchitectureCollegeLink_In_Footer_Is_Clickable_0010 -->
+        <test-method signature="cs_Verify_MedicalCollegeLink_In_Footer_Is_Clickable_0011()[pri:11, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:26:12 IST" name="cs_Verify_MedicalCollegeLink_In_Footer_Is_Clickable_0011" finished-at="2024-01-25T14:26:29 IST" duration-ms="17056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_MedicalCollegeLink_In_Footer_Is_Clickable_0011 -->
+        <test-method signature="cs_Verify_DentalCollegeLink_In_Footer_Is_Clickable_0012()[pri:12, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:26:29 IST" name="cs_Verify_DentalCollegeLink_In_Footer_Is_Clickable_0012" finished-at="2024-01-25T14:26:46 IST" duration-ms="16823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_DentalCollegeLink_In_Footer_Is_Clickable_0012 -->
+        <test-method signature="cs_Verify_PharmacyCollegeLink_In_Footer_Is_Clickable_0013()[pri:13, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:26:46 IST" name="cs_Verify_PharmacyCollegeLink_In_Footer_Is_Clickable_0013" finished-at="2024-01-25T14:27:03 IST" duration-ms="16854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cs_Verify_PharmacyCollegeLink_In_Footer_Is_Clickable_0013 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.collegesuggest.HomePage_Footer@6340e5f0]" started-at="2024-01-25T14:27:03 IST" name="tearDown" finished-at="2024-01-25T14:27:03 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.collegesuggest.HomePage_Footer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
